@@ -1,3 +1,3 @@
 # Survey form for freeCodeCamp
 
-###  [freeCodeCamp Survey Form](https://lanrewaju94.github.io/survey-form--freeCodeCamp/)
+###  [freeCodeCamp Survey Form](https://lanre-waju.github.io/survey-form--freeCodeCamp/)
